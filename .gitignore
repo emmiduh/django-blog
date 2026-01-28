@@ -1,0 +1,61 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# =====================
+# Virtual Environments
+# =====================
+venv/
+env/
+my_env/
+.venv/
+
+# =====================
+# Django
+# =====================
+*.log
+local_settings.py
+db.sqlite3
+media/
+staticfiles/
+
+# Django migrations cache
+*/migrations/__pycache__/
+
+# =====================
+# Environment variables
+# =====================
+.env
+.env.*
+*.env
+
+# =====================
+# VS Code / Editors
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Node / Frontend (if added later)
+# =====================
+node_modules/
+
+# =====================
+# Docker
+# =====================
+*.tar
+docker-data/

@@ -5,6 +5,8 @@ The project covers core Django fundamentals, advanced features, database integra
 
 This application demonstrates how to build a real-world Django blog from scratch — from project setup to advanced querying and search.
 
+The live site is accessible at: https://django-blog-h6pw.onrender.com/blog/
+
 ---
 
 ## 🚀 Features Overview
